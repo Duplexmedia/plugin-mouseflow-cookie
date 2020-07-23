@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ComposerSettings">
+  <component name="ChangeListManager">
+    <list default="true" id="78d260d5-dab6-4b63-9125-159cd5a29de5" name="Default Changelist" comment=":tada: init commit">
+      <change beforePath="$PROJECT_DIR$/src/Providers/MouseflowCookieServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Providers/MouseflowCookieServiceProvider.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f5u2jfx3yPH85TKwrmSLwagYz5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78d260d5-dab6-4b63-9125-159cd5a29de5" name="Default Changelist" comment="" />
+      <created>1595520069154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595520069154</updated>
+      <workItem from="1595520070262" duration="463000" />
+    </task>
+    <task id="LOCAL-00001" summary=":tada: init commit">
+      <created>1595520116613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595520116613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":tada: init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=":tada: init commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="659" y="429" key="Github.ShareDialog" timestamp="1595520292217">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="659" y="429" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595520292217" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1595520124623">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1595520124623" />
   </component>
 </project>

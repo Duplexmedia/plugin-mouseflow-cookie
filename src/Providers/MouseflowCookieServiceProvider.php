@@ -15,8 +15,6 @@ class MouseflowCookieServiceProvider extends ServiceProvider
 	 */
 	public function register()
 	{
-		$this->getApplication()->register(MouseflowCookieRouteServiceProvider::class);
-
         /** @var ConsentRepositoryContract $consentRepository */
         $consentRepository = pluginApp(ConsentRepositoryContract::class);
 
