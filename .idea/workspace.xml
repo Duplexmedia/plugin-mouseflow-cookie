@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78d260d5-dab6-4b63-9125-159cd5a29de5" name="Default Changelist" comment=":bug: add ConsentRepositoryContract">
-      <change beforePath="$PROJECT_DIR$/src/Providers/HelloWorldRouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Providers/MouseflowCookieRouteServiceProvider.php" afterDir="false" />
+    <list default="true" id="78d260d5-dab6-4b63-9125-159cd5a29de5" name="Default Changelist" comment=":bug: rename route class provider">
+      <change beforePath="$PROJECT_DIR$/src/Providers/MouseflowCookieServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Providers/MouseflowCookieServiceProvider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595520069154</updated>
-      <workItem from="1595520070262" duration="1383000" />
+      <workItem from="1595520070262" duration="1543000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: init commit">
       <created>1595520116613</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595522670560</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=":bug: rename route class provider">
+      <created>1595522862378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595522862378</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,20 +93,21 @@
     <MESSAGE value=":bug: remove route provider registration" />
     <MESSAGE value=":bug: error on MouseflowCookieRouteServiceProvider" />
     <MESSAGE value=":bug: add ConsentRepositoryContract" />
-    <option name="LAST_COMMIT_MESSAGE" value=":bug: add ConsentRepositoryContract" />
+    <MESSAGE value=":bug: rename route class provider" />
+    <option name="LAST_COMMIT_MESSAGE" value=":bug: rename route class provider" />
   </component>
   <component name="WindowStateProjectService">
     <state x="659" y="429" key="Github.ShareDialog" timestamp="1595520292217">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="659" y="429" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595520292217" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1595522675762">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1595522864795">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1595522675762" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1595522549219">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1595522864795" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1595523019719">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595522549219" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595523019719" />
   </component>
 </project>
