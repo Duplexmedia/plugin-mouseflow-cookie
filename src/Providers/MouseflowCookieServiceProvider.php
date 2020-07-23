@@ -2,6 +2,8 @@
 namespace MouseflowCookie\Providers;
 
 use Plenty\Plugin\ServiceProvider;
+use Plenty\Modules\Frontend\Session\Storage\Contracts\FrontendSessionStorageFactoryContract;
+use Plenty\Modules\Webshop\Consent\Contracts\ConsentRepositoryContract;
 
 /**
  * Class MouseflowCookieServiceProvider
