@@ -4,8 +4,8 @@ namespace MouseflowCookie\Providers;
 use Plenty\Plugin\ServiceProvider;
 
 /**
- * Class HelloWorldServiceProvider
- * @package HelloWorld\Providers
+ * Class MouseflowCookieServiceProvider
+ * @package MouseflowCookie\Providers
  */
 class MouseflowCookieServiceProvider extends ServiceProvider
 {
@@ -15,6 +15,8 @@ class MouseflowCookieServiceProvider extends ServiceProvider
 	 */
 	public function register()
 	{
+		$this->getApplication()->register(MouseflowCookieRouteServicControllerseProvider::class);
+
         /** @var ConsentRepositoryContract $consentRepository */
         $consentRepository = pluginApp(ConsentRepositoryContract::class);
 
