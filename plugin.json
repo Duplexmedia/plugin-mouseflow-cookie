@@ -1,0 +1,8 @@
+{
+      "name":"MouseflowCookie",
+      "description":"Register Mouseflow cookies",
+      "namespace":"MouseflowCookie",
+      "author":"Duplexmedia GmbH & Co. KG",
+      "type":"template",
+      "serviceProvider":"MouseflowCookie\\Providers\\MouseflowCookieServiceProvider"
+}
